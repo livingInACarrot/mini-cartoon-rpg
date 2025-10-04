@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WarriorBanditBarbarian_0: -2843826306654871375
+      WarriorBanditBarbarian_1: 4956805099258990229
+      WarriorBanditBarbarian_2: 6850860392417477232
+      WarriorBanditBarbarian_3: 9139499160473594328
+      WarriorBanditBarbarian_4: 8902427354721929753
+      WarriorBanditBarbarian_5: -8273312473392806039
+      WarriorBanditBarbarian_6: 3044316740463702330
+      WarriorBanditBarbarian_7: -3488089436717680724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
